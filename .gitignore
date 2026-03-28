@@ -3,9 +3,19 @@
 /node_modules
 /build
 
+# Node modules
 node_modules/
+
+# MongoDB
 mongo/
 *.lock
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
 
 # Logs
 logs
